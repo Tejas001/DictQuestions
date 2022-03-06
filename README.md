@@ -1,1 +1,1 @@
-# Python_day_to_day_usage
+Basic Python solved questions with answers 
