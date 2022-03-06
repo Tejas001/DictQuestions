@@ -1,1 +1,0 @@
-program 9 - storing number and its power number in dictionary 
